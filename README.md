@@ -1,7 +1,7 @@
 - 👋 E ai, eu sou @LukasDev
 - 👀 Interessado em tecnologias BackEnd e servidores
 - 🌱 Buscando me desenvolver trabalhando em equipe
-- 📫 Me encontre em luks_dev@outlook.com ou https://luksdev.tech
+- 📫 Me encontre em luks_dev@outlook.com ou https://luksdev.cloud
 
 <!---
 Lukasrangel/Lukasrangel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
