@@ -1,6 +1,6 @@
 - 👋 E ai, eu sou @LukasDev
-- 👀 Interessado em tecnologias BackEnd e servidores
-- 🌱 Buscando me desenvolver trabalhando em equipe
+- Freelancer de TI nas áreas de desenvolvimento web, servidores linux e hardware
+- 🌱 Buscando me desenvolver trabalhando em equipe, foco em backEnd em interessado na cultura devOps
 - 📫 Me encontre em luks_dev@outlook.com ou https://luksdev.cloud
 
 <!---
