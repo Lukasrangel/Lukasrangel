@@ -1,6 +1,6 @@
-- Freelancer de TI nas áreas de desenvolvimento web, servidores linux e hardware
+- Desenvolvedor Web, administrador de servidores linux.
 - 🌱 Buscando me desenvolver trabalhando em equipe, foco em   BackEnd, interessado na cultura devOps
-- 📫 Me encontre em luks_dev@outlook.com ou https://luksdev.cloud
+- 📫 Me encontre em luks_dev@outlook.com ou https://luksdev.site
 
 <!---
 Lukasrangel/Lukasrangel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
