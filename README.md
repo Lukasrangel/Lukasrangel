@@ -1,5 +1,5 @@
 - Desenvolvedor Web, administrador de servidores linux.
-- 🌱 Buscando me desenvolver trabalhando em equipe, foco em   BackEnd, interessado na cultura devOps
+- 🌱 Buscando me desenvolver trabalhando em equipe, foco em   Infraestrutura e Servidores, interessado na cultura devOps
 - 📫 Me encontre em luks_dev@outlook.com ou https://luksdev.site
 
 <!---
